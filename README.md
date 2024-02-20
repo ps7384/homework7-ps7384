@@ -7,7 +7,7 @@ who have confirmed their attendance receive email notifications. The system util
 allows us to do several operations on students who have RSVP'd without making changes to the student class. This encourages a design that is simple to clean.
 
 
-**Features**
-Student RSVP: Students can easily RSVP for events by providing their name and email address.
-Administrator View: Administrators can view the list of students who have RSVP'd for each event.
-Confirmation Emails: Students receive confirmation emails upon successful RSVP for an event.
+**Features** 
+1. Student RSVP: Students can easily RSVP for events by providing their name and email address.
+2. Administrator View: Administrators can view the list of students who have RSVP'd for each event.
+3. Confirmation Emails: Students receive confirmation emails upon successful RSVP for an event.
